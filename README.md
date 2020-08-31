@@ -1,4 +1,4 @@
-# Module-3 of Scalable Data Science and Distributed Machine Learning
+# Module 3 of Scalable Data Science and Distributed Machine Learning
 
 ## Module 3 – Decision-making with Scalable Algorithms:
 
